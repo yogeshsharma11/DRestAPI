@@ -1,0 +1,19 @@
+## .gitignore
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual Environment
+venv/
+
+# IDE Specific
+.vscode/
+.idea/
+*.swp
+
+# Environment Variables
+.env
