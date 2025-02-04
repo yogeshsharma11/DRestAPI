@@ -1,4 +1,4 @@
-# Blog API with Django Rest Framework
+# Book manager with Django Rest Framework
 
 This project is a **Blog API** built using **Django Rest Framework (DRF)**. It allows users to register, log in, and manage their book categories and books. Each user can only view and manage their own categories and books.
 
